@@ -13,7 +13,5 @@ function duplicateEncode(word){
         }
     })
     return ans
-
 }
-
 console.log(duplicateEncode('din'));
